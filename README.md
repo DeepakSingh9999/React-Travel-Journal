@@ -10,10 +10,10 @@ The app is built around a basic example, where data such as names, descriptions,
 
 ## Features
 
-....* Dynamically render data using arrays.
-....* Pass data from parent to child components via props.
-....* Display lists of items with custom formatting.
-....* Easy-to-modify example to extend with more data or different components.
+* Dynamically render data using arrays.
+* Pass data from parent to child components via props.
+* Display lists of items with custom formatting.
+* Easy-to-modify example to extend with more data or different components.
 
 
 
