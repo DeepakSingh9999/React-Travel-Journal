@@ -1,0 +1,94 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F55A5A;
+    color: white;
+    height: 55px;
+}
+
+header > img {
+    height: 35px;
+    width: 35px;
+    margin: 0px 7px;
+}
+
+header > h1 {
+    font-size: 9.9rem;
+    font-weight: 500;
+}
+
+
+.journal-entry{
+    display: flex;
+    margin: 20px 15px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 3px lightgray;
+}
+
+.main-image-container{
+    overflow: hidden;
+    width: 125px;
+    height: 180px;
+    border-radius: 5px;
+    flex-shrink: 0;
+    margin-right: 10px;
+    border: 1px solid lightgray;
+}
+
+.main-image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.marker-image{
+    height: 13px;
+    width: auto;
+    margin-right: 5px;
+}
+
+.entry-details > a{
+    padding-left: 8px;
+    font-size: 0.8rem;
+    color: black;
+}
+
+.entry-details > h2, .entry-details > p {
+    margin-top: 10px;
+    margin-bottom: 0;
+    padding-left: 5px;
+}
+
+.entry-details > p:nth-child(2n){
+    margin-top: 5px;
+    margin-bottom: 0;
+    padding-left: 5px;
+}
+
+
+footer{
+    width: 100%;
+    height: 35px;
+    padding: 15px;
+    background-color: #69a7b8;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+}
