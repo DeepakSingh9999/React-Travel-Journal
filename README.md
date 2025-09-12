@@ -23,14 +23,19 @@ The app is built around a basic example, where data such as names, descriptions,
 
 ## </> Technologies Used
 
-1. React: JavaScript library for building user interfaces.
-
-2. JSX: Syntax extension for JavaScript to write HTML-like structures in React.
-
-3. Props: Mechanism for passing data from parent to child components.
-
-4. Arrays: Used to store and manipulate lists of data.
+1. **React**: JavaScript library for building user interfaces.
+2. **JSX**: Syntax extension for JavaScript to write HTML-like structures in React.
+3. **Props**: Mechanism for passing data from parent to child components.
+4. **Arrays**: Used to store and manipulate lists of data.
 
 ---
 
 ## 📸 Demo
+
+<img width="1920" height="1083" alt="Image" src="https://github.com/user-attachments/assets/cb063a01-6d94-43cb-8250-46f3b2033554" />
+
+<img width="950" height="1077" alt="Image" src="https://github.com/user-attachments/assets/0fe4fe30-322c-4e84-88ae-5971ac890b00" />
+
+<img width="954" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a77192d2-07c0-4fa7-b3c9-30ba50719885" />
+
+---
