@@ -4,6 +4,12 @@ This project is a simple React application that demonstrates on how to use array
 
 ---
 
+## Live link:
+
+https://react-travel-journal-two.vercel.app/
+
+---
+
 ## 📌 Description
 
 This React application uses arrays to store and manage a list of data items, and props to pass this data to child components for display. It showcases how to use these React features for efficient rendering of multiple elements, making it easy to dynamically manage data and structure.
